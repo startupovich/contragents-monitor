@@ -6,7 +6,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Lines of code](https://img.shields.io/tokei/lines/github/startupovich/contragents-monitor)
 
 ---
 
